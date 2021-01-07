@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/fraction/obj/Debug/netcoreapp3.1/fraction.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/fraction/obj/Debug/netcoreapp3.1/fraction.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/fraction/obj/Debug/netcoreapp3.1/fraction.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/fraction/obj/Debug/netcoreapp3.1/fraction.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/fraction/bin/Debug/netcoreapp3.1/fraction.deps.json
+/Users/xuanhong/Documents/20201/OOP/fraction/bin/Debug/netcoreapp3.1/fraction.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/fraction/bin/Debug/netcoreapp3.1/fraction.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/fraction/bin/Debug/netcoreapp3.1/fraction.dll
+/Users/xuanhong/Documents/20201/OOP/fraction/bin/Debug/netcoreapp3.1/fraction.pdb
+/Users/xuanhong/Documents/20201/OOP/fraction/obj/Debug/netcoreapp3.1/fraction.dll
+/Users/xuanhong/Documents/20201/OOP/fraction/obj/Debug/netcoreapp3.1/fraction.pdb
+/Users/xuanhong/Documents/20201/OOP/fraction/obj/Debug/netcoreapp3.1/fraction.genruntimeconfig.cache

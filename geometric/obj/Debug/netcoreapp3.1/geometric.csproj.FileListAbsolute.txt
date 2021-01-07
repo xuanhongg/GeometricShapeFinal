@@ -1,0 +1,12 @@
+/Users/xuanhong/Desktop/20201/OOP/geometric/bin/Debug/netcoreapp3.1/geometric.deps.json
+/Users/xuanhong/Desktop/20201/OOP/geometric/bin/Debug/netcoreapp3.1/geometric.runtimeconfig.json
+/Users/xuanhong/Desktop/20201/OOP/geometric/bin/Debug/netcoreapp3.1/geometric.runtimeconfig.dev.json
+/Users/xuanhong/Desktop/20201/OOP/geometric/bin/Debug/netcoreapp3.1/geometric.dll
+/Users/xuanhong/Desktop/20201/OOP/geometric/bin/Debug/netcoreapp3.1/geometric.pdb
+/Users/xuanhong/Desktop/20201/OOP/geometric/obj/Debug/netcoreapp3.1/geometric.csprojAssemblyReference.cache
+/Users/xuanhong/Desktop/20201/OOP/geometric/obj/Debug/netcoreapp3.1/geometric.AssemblyInfoInputs.cache
+/Users/xuanhong/Desktop/20201/OOP/geometric/obj/Debug/netcoreapp3.1/geometric.AssemblyInfo.cs
+/Users/xuanhong/Desktop/20201/OOP/geometric/obj/Debug/netcoreapp3.1/geometric.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Desktop/20201/OOP/geometric/obj/Debug/netcoreapp3.1/geometric.dll
+/Users/xuanhong/Desktop/20201/OOP/geometric/obj/Debug/netcoreapp3.1/geometric.pdb
+/Users/xuanhong/Desktop/20201/OOP/geometric/obj/Debug/netcoreapp3.1/geometric.genruntimeconfig.cache

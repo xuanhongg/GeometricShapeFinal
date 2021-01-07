@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egGetSet/obj/Debug/netcoreapp3.1/egGetSet.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egGetSet/obj/Debug/netcoreapp3.1/egGetSet.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egGetSet/obj/Debug/netcoreapp3.1/egGetSet.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egGetSet/obj/Debug/netcoreapp3.1/egGetSet.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egGetSet/bin/Debug/netcoreapp3.1/egGetSet.deps.json
+/Users/xuanhong/Documents/20201/OOP/egGetSet/bin/Debug/netcoreapp3.1/egGetSet.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egGetSet/bin/Debug/netcoreapp3.1/egGetSet.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egGetSet/bin/Debug/netcoreapp3.1/egGetSet.dll
+/Users/xuanhong/Documents/20201/OOP/egGetSet/bin/Debug/netcoreapp3.1/egGetSet.pdb
+/Users/xuanhong/Documents/20201/OOP/egGetSet/obj/Debug/netcoreapp3.1/egGetSet.dll
+/Users/xuanhong/Documents/20201/OOP/egGetSet/obj/Debug/netcoreapp3.1/egGetSet.pdb
+/Users/xuanhong/Documents/20201/OOP/egGetSet/obj/Debug/netcoreapp3.1/egGetSet.genruntimeconfig.cache

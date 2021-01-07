@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egEnum/bin/Debug/netcoreapp3.1/egEnum.deps.json
+/Users/xuanhong/Documents/20201/OOP/egEnum/bin/Debug/netcoreapp3.1/egEnum.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egEnum/bin/Debug/netcoreapp3.1/egEnum.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egEnum/bin/Debug/netcoreapp3.1/egEnum.dll
+/Users/xuanhong/Documents/20201/OOP/egEnum/bin/Debug/netcoreapp3.1/egEnum.pdb
+/Users/xuanhong/Documents/20201/OOP/egEnum/obj/Debug/netcoreapp3.1/egEnum.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egEnum/obj/Debug/netcoreapp3.1/egEnum.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egEnum/obj/Debug/netcoreapp3.1/egEnum.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egEnum/obj/Debug/netcoreapp3.1/egEnum.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egEnum/obj/Debug/netcoreapp3.1/egEnum.dll
+/Users/xuanhong/Documents/20201/OOP/egEnum/obj/Debug/netcoreapp3.1/egEnum.pdb
+/Users/xuanhong/Documents/20201/OOP/egEnum/obj/Debug/netcoreapp3.1/egEnum.genruntimeconfig.cache

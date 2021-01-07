@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/obj/Debug/netcoreapp3.1/egContrusctor.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/obj/Debug/netcoreapp3.1/egContrusctor.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/obj/Debug/netcoreapp3.1/egContrusctor.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/obj/Debug/netcoreapp3.1/egContrusctor.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/bin/Debug/netcoreapp3.1/egContrusctor.deps.json
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/bin/Debug/netcoreapp3.1/egContrusctor.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/bin/Debug/netcoreapp3.1/egContrusctor.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/bin/Debug/netcoreapp3.1/egContrusctor.dll
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/bin/Debug/netcoreapp3.1/egContrusctor.pdb
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/obj/Debug/netcoreapp3.1/egContrusctor.dll
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/obj/Debug/netcoreapp3.1/egContrusctor.pdb
+/Users/xuanhong/Documents/20201/OOP/egContrusctor/obj/Debug/netcoreapp3.1/egContrusctor.genruntimeconfig.cache

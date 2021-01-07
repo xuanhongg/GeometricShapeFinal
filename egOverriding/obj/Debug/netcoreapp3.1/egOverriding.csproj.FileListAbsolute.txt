@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egOverriding/bin/Debug/netcoreapp3.1/egOverriding.deps.json
+/Users/xuanhong/Documents/20201/OOP/egOverriding/bin/Debug/netcoreapp3.1/egOverriding.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egOverriding/bin/Debug/netcoreapp3.1/egOverriding.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egOverriding/bin/Debug/netcoreapp3.1/egOverriding.dll
+/Users/xuanhong/Documents/20201/OOP/egOverriding/bin/Debug/netcoreapp3.1/egOverriding.pdb
+/Users/xuanhong/Documents/20201/OOP/egOverriding/obj/Debug/netcoreapp3.1/egOverriding.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egOverriding/obj/Debug/netcoreapp3.1/egOverriding.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egOverriding/obj/Debug/netcoreapp3.1/egOverriding.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egOverriding/obj/Debug/netcoreapp3.1/egOverriding.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egOverriding/obj/Debug/netcoreapp3.1/egOverriding.dll
+/Users/xuanhong/Documents/20201/OOP/egOverriding/obj/Debug/netcoreapp3.1/egOverriding.pdb
+/Users/xuanhong/Documents/20201/OOP/egOverriding/obj/Debug/netcoreapp3.1/egOverriding.genruntimeconfig.cache

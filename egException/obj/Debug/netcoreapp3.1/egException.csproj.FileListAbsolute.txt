@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egException/bin/Debug/netcoreapp3.1/egException.deps.json
+/Users/xuanhong/Documents/20201/OOP/egException/bin/Debug/netcoreapp3.1/egException.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egException/bin/Debug/netcoreapp3.1/egException.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egException/bin/Debug/netcoreapp3.1/egException.dll
+/Users/xuanhong/Documents/20201/OOP/egException/bin/Debug/netcoreapp3.1/egException.pdb
+/Users/xuanhong/Documents/20201/OOP/egException/obj/Debug/netcoreapp3.1/egException.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egException/obj/Debug/netcoreapp3.1/egException.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egException/obj/Debug/netcoreapp3.1/egException.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egException/obj/Debug/netcoreapp3.1/egException.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egException/obj/Debug/netcoreapp3.1/egException.dll
+/Users/xuanhong/Documents/20201/OOP/egException/obj/Debug/netcoreapp3.1/egException.pdb
+/Users/xuanhong/Documents/20201/OOP/egException/obj/Debug/netcoreapp3.1/egException.genruntimeconfig.cache

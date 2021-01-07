@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/bin/Debug/netcoreapp3.1/egAbstractClass.deps.json
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/bin/Debug/netcoreapp3.1/egAbstractClass.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/bin/Debug/netcoreapp3.1/egAbstractClass.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/bin/Debug/netcoreapp3.1/egAbstractClass.dll
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/bin/Debug/netcoreapp3.1/egAbstractClass.pdb
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/obj/Debug/netcoreapp3.1/egAbstractClass.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/obj/Debug/netcoreapp3.1/egAbstractClass.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/obj/Debug/netcoreapp3.1/egAbstractClass.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/obj/Debug/netcoreapp3.1/egAbstractClass.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/obj/Debug/netcoreapp3.1/egAbstractClass.dll
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/obj/Debug/netcoreapp3.1/egAbstractClass.pdb
+/Users/xuanhong/Documents/20201/OOP/egAbstractClass/obj/Debug/netcoreapp3.1/egAbstractClass.genruntimeconfig.cache

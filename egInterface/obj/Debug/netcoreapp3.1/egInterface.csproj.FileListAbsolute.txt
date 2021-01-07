@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egInterface/bin/Debug/netcoreapp3.1/egInterface.deps.json
+/Users/xuanhong/Documents/20201/OOP/egInterface/bin/Debug/netcoreapp3.1/egInterface.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egInterface/bin/Debug/netcoreapp3.1/egInterface.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egInterface/bin/Debug/netcoreapp3.1/egInterface.dll
+/Users/xuanhong/Documents/20201/OOP/egInterface/bin/Debug/netcoreapp3.1/egInterface.pdb
+/Users/xuanhong/Documents/20201/OOP/egInterface/obj/Debug/netcoreapp3.1/egInterface.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egInterface/obj/Debug/netcoreapp3.1/egInterface.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egInterface/obj/Debug/netcoreapp3.1/egInterface.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egInterface/obj/Debug/netcoreapp3.1/egInterface.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egInterface/obj/Debug/netcoreapp3.1/egInterface.dll
+/Users/xuanhong/Documents/20201/OOP/egInterface/obj/Debug/netcoreapp3.1/egInterface.pdb
+/Users/xuanhong/Documents/20201/OOP/egInterface/obj/Debug/netcoreapp3.1/egInterface.genruntimeconfig.cache

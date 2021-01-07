@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egInheritance/bin/Debug/netcoreapp3.1/egInheritance.deps.json
+/Users/xuanhong/Documents/20201/OOP/egInheritance/bin/Debug/netcoreapp3.1/egInheritance.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egInheritance/bin/Debug/netcoreapp3.1/egInheritance.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egInheritance/bin/Debug/netcoreapp3.1/egInheritance.dll
+/Users/xuanhong/Documents/20201/OOP/egInheritance/bin/Debug/netcoreapp3.1/egInheritance.pdb
+/Users/xuanhong/Documents/20201/OOP/egInheritance/obj/Debug/netcoreapp3.1/egInheritance.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egInheritance/obj/Debug/netcoreapp3.1/egInheritance.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egInheritance/obj/Debug/netcoreapp3.1/egInheritance.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egInheritance/obj/Debug/netcoreapp3.1/egInheritance.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egInheritance/obj/Debug/netcoreapp3.1/egInheritance.dll
+/Users/xuanhong/Documents/20201/OOP/egInheritance/obj/Debug/netcoreapp3.1/egInheritance.pdb
+/Users/xuanhong/Documents/20201/OOP/egInheritance/obj/Debug/netcoreapp3.1/egInheritance.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/bin/Debug/netcoreapp3.1/egSealedClass.deps.json
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/bin/Debug/netcoreapp3.1/egSealedClass.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/bin/Debug/netcoreapp3.1/egSealedClass.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/bin/Debug/netcoreapp3.1/egSealedClass.dll
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/bin/Debug/netcoreapp3.1/egSealedClass.pdb
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/obj/Debug/netcoreapp3.1/egSealedClass.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/obj/Debug/netcoreapp3.1/egSealedClass.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/obj/Debug/netcoreapp3.1/egSealedClass.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/obj/Debug/netcoreapp3.1/egSealedClass.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/obj/Debug/netcoreapp3.1/egSealedClass.dll
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/obj/Debug/netcoreapp3.1/egSealedClass.pdb
+/Users/xuanhong/Documents/20201/OOP/egSealedClass/obj/Debug/netcoreapp3.1/egSealedClass.genruntimeconfig.cache

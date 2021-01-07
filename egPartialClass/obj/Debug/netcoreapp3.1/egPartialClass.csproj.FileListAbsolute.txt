@@ -1,0 +1,12 @@
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/bin/Debug/netcoreapp3.1/egPartialClass.deps.json
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/bin/Debug/netcoreapp3.1/egPartialClass.runtimeconfig.json
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/bin/Debug/netcoreapp3.1/egPartialClass.runtimeconfig.dev.json
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/bin/Debug/netcoreapp3.1/egPartialClass.dll
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/bin/Debug/netcoreapp3.1/egPartialClass.pdb
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/obj/Debug/netcoreapp3.1/egPartialClass.csprojAssemblyReference.cache
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/obj/Debug/netcoreapp3.1/egPartialClass.AssemblyInfoInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/obj/Debug/netcoreapp3.1/egPartialClass.AssemblyInfo.cs
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/obj/Debug/netcoreapp3.1/egPartialClass.csproj.CoreCompileInputs.cache
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/obj/Debug/netcoreapp3.1/egPartialClass.dll
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/obj/Debug/netcoreapp3.1/egPartialClass.pdb
+/Users/xuanhong/Documents/20201/OOP/egPartialClass/obj/Debug/netcoreapp3.1/egPartialClass.genruntimeconfig.cache
